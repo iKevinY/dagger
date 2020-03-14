@@ -1,0 +1,10 @@
+{
+	"name": "Dagger Template",
+	"description": "Heroku-deployable Flask and React template",
+	"repository": "https://github.com/iKevinY/dagger",
+	"buildpacks": [
+		{
+			"url": "https://github.com/negativetwelve/heroku-buildpack-subdir.git"
+		}
+	]
+}
