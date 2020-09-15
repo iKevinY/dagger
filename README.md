@@ -54,3 +54,8 @@ git remote add heroku "https://git.heroku.com/${HEROKU_APP}.git"
 git push heroku master
 heroku open
 ```
+
+## License
+
+Dagger is licensed under the [Unlicense](LICENSE); I'm interested in seeing what you're
+building with it, so please [tweet / DM me](https://twitter.com/iKevinY)!
